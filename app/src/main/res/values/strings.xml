@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="textView">By : Adam Rain</string>
+    <string name="listView">List Catatan</string>
+    <string name="listView2">Nama File : </string>
+    <string name="listView3">Catatan : </string>
+    <string name="buttonSimpan">Save</string>
+</resources>
